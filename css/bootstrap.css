@@ -38,6 +38,9 @@ audio:not([controls]) {
   display: none;
   height: 0;
 }
+li {
+  display: inline;
+}
 [hidden],
 template {
   display: none;
@@ -5370,9 +5373,6 @@ a.list-group-item-info:focus,
 button.list-group-item-info:focus {
   color: #31708f;
   background-color: #c4e3f3;
-}
-li {
-  display: inline;
 }
 a.list-group-item-info.active,
 button.list-group-item-info.active,
