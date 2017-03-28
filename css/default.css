@@ -1,8 +1,8 @@
 
 
 .navigation-bar ul {
-  padding: 5px;
-  margin: 5px;
+  padding: 10px;
+  margin: 10px;
   list-style-type: none;
   text-align: center;
   display:inline-block;
@@ -10,5 +10,5 @@
 }
 .navigation-bar li {
     display: inline;
-    background-color: silver;
+    background-color: gray;
 }
