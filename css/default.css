@@ -1,8 +1,8 @@
 li {
     float: left;
     display: inline;
-    padding: 8px;
-    background-color: #dddddd;
+    padding: 0px;
+    background-color: #FFFFFFFF;
 }
 
 a {
