@@ -1,6 +1,8 @@
+
+
 .navigation-bar ul {
-  padding: 0px;
-  margin: 0px;
+  padding: 5px;
+  margin: 5px;
   list-style-type: none;
   text-align: center;
   display:inline-block;
@@ -8,4 +10,9 @@
 }
 .navigation-bar li {
     display: inline;
+    background-color: red
+}
+.navigation-bar img {
+height: 50px;
+width: 50px;
 }
