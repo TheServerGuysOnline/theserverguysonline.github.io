@@ -39,7 +39,10 @@ audio:not([controls]) {
   height: 0;
 }
 li {
-  display: inline;
+  display: block;
+  float: left;
+  padding: 8px;
+  background-color: #dddddd;
 }
 [hidden],
 template {
